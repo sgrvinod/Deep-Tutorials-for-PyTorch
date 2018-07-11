@@ -1,6 +1,10 @@
-# Deep Tutorials for PyTorch
+# Deep Tutorials for [PyTorch](https://pytorch.org)
 
 This is a series of in-depth tutorials I'm writing for implementing cool deep learning models on your own with the amazing PyTorch library. 
+
+Basic knowledge of PyTorch and neural networks is assumed.
+
+If you're new to PyTorch, first read [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) and [Learning PyTorch with Examples](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html).
 
 In each tutorial, we will focus on a specific application or area of interest by implementing a model from a research paper. 
 
