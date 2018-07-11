@@ -17,3 +17,5 @@ Sequence Labeling | [_Empower Sequence Labeling with Task-Aware Neural Language 
 Text Classification | [_Hierarchical Attention Networks for Document Classification_](https://www.semanticscholar.org/paper/Hierarchical-Attention-Networks-for-Document-Yang-Yang/1967ad3ac8a598adc6929e9e6b9682734f789427) | a PyTorch Tutorial to Text Classification | In-progress (expected July 2018)
 Object Detection | [_SSD: Single Shot MultiBox Detector_](https://arxiv.org/abs/1512.02325) | a PyTorch Tutorial to Object Detection | In-progress (expected July 2018)
 Text Recognition | [_An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition_](https://arxiv.org/abs/1507.05717) | a PyTorch Tutorial to Text Recognition | Planned
+
+Subsequent tutorials for the same application will implement newer or more advanced models and papers.
