@@ -18,7 +18,7 @@ Text Classification | [_Hierarchical Attention Networks for Document Classificat
 Object Detection | [_SSD: Single Shot MultiBox Detector_](https://arxiv.org/abs/1512.02325) | a PyTorch Tutorial to Object Detection | In-progress (expected July 2018)
 Text Recognition | [_An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition_](https://arxiv.org/abs/1507.05717) | a PyTorch Tutorial to Text Recognition | Planned
 Text Summarization | [_Get To The Point: Summarization with Pointer-Generator Networks_](https://arxiv.org/abs/1704.04368) | a PyTorch Tutorial to Text Summarization | Planned
-Machine Translation | [_Attention Is All You Need_](https://arxiv.org/abs/1706.03762) | a PyTorch Tutorial to Text Summarization | Planned
+Machine Translation | [_Attention Is All You Need_](https://arxiv.org/abs/1706.03762) | a PyTorch Tutorial to Machine Translation | Planned
 Semantic Segmentation | [_Pyramid Scene Parsing Network_](https://arxiv.org/abs/1612.01105) | a PyTorch Tutorial to Semantic Segmentation | Planned
 
 In the future, I may write additional tutorials in the same application area, implementing newer or more advanced models and papers.
