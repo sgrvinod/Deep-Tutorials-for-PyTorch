@@ -8,7 +8,7 @@ If you're new to PyTorch, first read [Deep Learning with PyTorch: A 60 Minute Bl
 
 ---
 
-**Edit (16 Jan 2019)**: I've been really busy the last few months, and I'm finally getting back to these tutorials. Sorry about the delays. It takes me about two weeks to create the visuals and write the text for a tutorial, and this is _after_ the code is finished. The object detection tutorial should be up in about two weeks, and then the text classification in the middle of February. 
+**16 Jan 2019**: I've been really busy the last few months, and I'm finally getting back to these tutorials. Sorry about the delays. It takes me about two weeks to create the visuals and write the text for a tutorial, and this is _after_ the code is finished. The object detection tutorial should be up in about two weeks, and then the text classification in the middle of February. 
 
 ---
 
