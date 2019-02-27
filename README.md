@@ -8,7 +8,7 @@ If you're new to PyTorch, first read [Deep Learning with PyTorch: A 60 Minute Bl
 
 ---
 
-**27 Feb 2019**: The Object Detection tutorial is finally complete :) 
+**27 Feb 2019**: The object detection tutorial is finally complete :) 
 
 ---
 
