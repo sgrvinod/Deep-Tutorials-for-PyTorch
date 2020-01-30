@@ -8,7 +8,7 @@ If you're new to PyTorch, first read [Deep Learning with PyTorch: A 60 Minute Bl
 
 ---
 
-**27 Jan 2020**: The code for two new tutorials have been added — [Super-Resolution](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution) and [Machine Translation](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Machine-Translation)
+**27 Jan 2020**: Working code for two new tutorials has been added — [Super-Resolution](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution) and [Machine Translation](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Machine-Translation)
 
 ---
 
