@@ -8,7 +8,9 @@ If you're new to PyTorch, first read [Deep Learning with PyTorch: A 60 Minute Bl
 
 ---
 
-**24 Apr 2023**: I've just completed the [Super-Resolution](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution) and [Machine Translation](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Machine-Translation) tutorials.
+**24 Apr 2023**: I've just completed the [Super-Resolution](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution) and [Transformers](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Transformers) tutorials.
+
+**09 Dec 2023**: Interested in chess or transformers? Check out [Chess Transformers](https://github.com/sgrvinod/chess-transformers).
 
 ---
 
